@@ -21,9 +21,19 @@ Here are some ideas to get you started:
 
 
 
-<!--https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif-->
+<!--
+https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+-->
 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="300"/>
+</div>
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=brightgreen" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=brightgreen" alt="Telegram Badge"/>
+  <img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
 </div>
