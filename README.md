@@ -69,5 +69,10 @@ https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif
   <a />
 </div>
 -->
-   
+
+<!--
+### 🔎 My Stats:
+[![MrIcePea's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrIcePea&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrIcePea&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
