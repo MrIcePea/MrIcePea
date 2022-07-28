@@ -32,8 +32,40 @@ https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif
   <img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="300"/>
 </div>
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=brightgreen" alt="Telegram Badge"/>
-  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=brightgreen" alt="Telegram Badge"/>
-  <img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/JqSvF5Och8cOq7Jh5l/giphy.gif" width="300"/>
 </div>
+
+
+
+
+
+
+
+
+
+<div id="header" align="center">
+  <a href="https://t.me/MrIcePea">
+    <img src="https://media.giphy.com/media/Q59SaNn2vX1Sb8XIrf/giphy.gif" width="300"/>
+  <a />
+</div>
+
+<div id="badges">  
+  <a href="https://t.me/MrIcePea">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=brightgreen" alt="Telegram Badge"/>
+  <a />
+  <a href="https://wa.me/89851915517">
+    <img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
+  <a />
+</div>
+    
+<div id="badges black">
+  <a href="https://t.me/MrIcePea">
+    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=brightgreen" alt="Telegram Badge Black"/>
+  <a />
+  <a href="https://wa.me/89851915517">
+    <img src="https://img.shields.io/badge/WhatsApp-black?style=for-the-badge&logo=whatsapp&logoColor=brightgreen" alt="WhatsApp Badge"/>
+  <a />
+</div>
+   
+
