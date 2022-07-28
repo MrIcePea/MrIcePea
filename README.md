@@ -1,19 +1,8 @@
-### Hi there 👋
+### 
+<h1 id="header" align="center">
+  <div> Hi there 👋 </div>
+</h1>
 
-<!--
-**MrIcePea/MrIcePea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!--
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/R03zWv5p1oNSQd91EP/giphy.gif" width="300"/>
@@ -37,13 +26,6 @@ https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif
 </div>
 -->
 
-
-
-
-
-
-
-
 <div id="header" align="center">
   <a href="https://t.me/MrIcePea">
     <img src="https://media.giphy.com/media/Q59SaNn2vX1Sb8XIrf/giphy.gif" width="300"/>
@@ -58,9 +40,11 @@ https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif
     <img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
   <a />
 </div>
+
+
+<!-- ### <h2> About me: </h2> -->
  
- 
-### Languages and Tools:
+### <h2> Languages and Tools: </h2>
 <div>
   <div id="badges" align="center">  
     <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Node.js" width="50px"/>
