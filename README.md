@@ -48,7 +48,7 @@ https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif
 ### <h2> Languages and Tools: </h2>
 <div>
   <div id="badges" align="center">  
-    <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Node.js" width="50px" data-tooltip="Node.js"/>
+    <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="Node.js" width="50px" title="Node.js"/>
     <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" alt="GitHub" width="50px"/>
     <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" alt="Git" width="50px"/>
     <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS3" width="50px"/>
